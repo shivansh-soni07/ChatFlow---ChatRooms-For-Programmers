@@ -1,6 +1,6 @@
-ChatFLow is a real-time anonymous public chatting application in which users can join a room to chat with other people without exposing their real identity.
+**ChatFLow is a real-time anonymous public chatting application in which users can join a room to chat with other people without exposing their real identity.**
 
-It is a fullstack application made using React , Node , Express , MongoDB , Socket.io etc
+It is a fullstack application made using **React , Node , Express , MongoDB , Socket.io **etc
 
 
 Here is the preview of the application
